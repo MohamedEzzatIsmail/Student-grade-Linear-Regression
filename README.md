@@ -1,4 +1,4 @@
-#🎓 Student Grade Predictor with Linear Regression
+🎓 #Student Grade Predictor with Linear Regression
 This project uses a linear regression model to predict students' final grades (G3) based on factors such as their previous grades (G1, G2), study time, number of past class failures, and absences. The model is trained and evaluated using scikit-learn, and the best-performing model is saved using Python's pickle module.
 
 #📁 Dataset
